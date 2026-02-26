@@ -3,7 +3,7 @@
 -- =============================================
 -- 🔹 Inserción de CLIENTES
 -- =============================================
-INSERT INTO CLIENTES (NOMBRE_CLIENTE, TELEFONO) VALUES ('Carlos Pérez', '7777-1001');
+INSERT INTO CLIENTES (NOMBRE_CLIENTE, TELEFONO) VALUES ('Carlos Pérez', '7772-1001');
 INSERT INTO CLIENTES (NOMBRE_CLIENTE, TELEFONO) VALUES ('María Gómez', '7777-1002');
 INSERT INTO CLIENTES (NOMBRE_CLIENTE, TELEFONO) VALUES ('Luis Hernández', '7777-1003');
 INSERT INTO CLIENTES (NOMBRE_CLIENTE, TELEFONO) VALUES ('Ana Torres', '7777-1004');
